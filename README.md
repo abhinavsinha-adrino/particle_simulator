@@ -3,6 +3,8 @@ This is a MATLAB app. It simulates motion of a charged particle in user defined 
 
 It uses Boris Push method to calculate the path of the particle.
 
+To run the particle simulator, you need MATLAB or MATLAB Runtime.
+
 **Start** Button: It starts the simulation and produces the results.
 
 **Export Data** Button: Opens up a save dialog for saving data of t, x, y, z, vx, vy, vz in multiple formats.
